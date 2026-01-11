@@ -2,7 +2,7 @@
 
 import Card from "@/components/Card";
 import Skeleton from "@/components/Skeleton";
-import FilterComponent from "../../components/FilterCompoent";
+import FilterComponent from "../../components/FilterComponent";
 import { useEffect, useState } from "react";
 import { Product } from "@/types/Products";
 import { getProducts } from "@/Services/products";
